@@ -1,7 +1,5 @@
 # TinyFlow: Build Your Own DL System in 2K Lines
 
-test
-
 TinyFlow is  "example code" for [NNVM](https://github.com/dmlc/nnvm/).
 
 It demonstrates how can we build a clean, minimum and powerful computational
